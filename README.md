@@ -111,9 +111,9 @@ python main.py
 ### 2. Unsupervised Machine Learning (USML)
  [USML](https://github.com/Salma-Swailem/ERI_AI_Project/blob/01c8fa1d6001786dcd741079039e5f9a52cdf318/USML/scripts/main.py)
 
-![Classfication KMeans and Ground Truth]([USML/Elbow method for optimal K.png](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/Classfication%20KMeans%20and%20Ground%20Truth.png))
+![Classfication KMeans and Ground Truth](USML/Elbow method for optimal K.png](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/Classfication%20KMeans%20and%20Ground%20Truth.png)
 ![Elbow method for optimal K](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/Elbow%20method%20for%20optimal%20K.png)
-![KMeans Clustering Results (Test Data)]([USML/KMeans Clustering Results (Test Data).png](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/KMeans%20Clustering%20Results%20(Test%20Data).png))
+![KMeans Clustering Results (Test Data)](USML/KMeans Clustering Results (Test Data).png](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/KMeans%20Clustering%20Results%20(Test%20Data).png)
 ![KMeans Clustering Results (Trainging Data)](https://github.com/Salma-Swailem/ERI_AI_Project/blob/main/USML/KMeans%20Clustering%20Results%20(Trainging%20Data).png)
 
 
